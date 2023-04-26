@@ -2,7 +2,7 @@ name: solar
 channels:
   - defaults
 dependencies:
-    - numpy==1.21.4
+    - numpy==1.23.3
     - matplotlib-inline=0.1.6
     - pandas==2.0.1
     - scikit-image==0.20.0
