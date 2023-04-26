@@ -12,5 +12,4 @@ dependencies:
     - sunkit-instruments==0.4.0
     - sunpy==4.1.5
     - lime==0.2.0.1
-    - sklearn
 prefix: /Users/hanwang/opt/anaconda3/envs/solar
