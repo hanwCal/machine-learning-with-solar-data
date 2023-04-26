@@ -5,7 +5,7 @@ This project is to evaluate the reproducibility of the paper:
 The result is reproduced using Binder + Jupyter Notebook. The link is as follows:
 
 Binder Link:
-[![Binder](https://mybinder.org/badge_logo.svg)]()
+[![Binder](https://mybinder.org/badge_logo.svg)](https://hub.gke2.mybinder.org/user/hanwcal-machine-with-solar-data-65386a84/lab/tree/result_reproduce.ipynb)
 
 # machine-learning-with-solar-data
 predicting solar eruptions using machine-learning methods
