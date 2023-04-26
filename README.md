@@ -1,3 +1,12 @@
+This project is to evaluate the reproducibility of the paper:
+
+**Bobra, M. G., & Ilonidis, S. (2016). Predicting coronal mass ejections using machine learning methods. The Astrophysical Journal, 821(2), 127.**
+
+The result is reproduced using Binder + Jupyter Notebook. The link is as follows:
+
+Binder Link:
+[![Binder](https://mybinder.org/badge_logo.svg)]()
+
 # machine-learning-with-solar-data
 predicting solar eruptions using machine-learning methods
 
